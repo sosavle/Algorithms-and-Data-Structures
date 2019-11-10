@@ -5,5 +5,6 @@ A program that implements a vector class built from the ground up in order to cr
 # pipeStarter
 
 An experiment on using pipes programatically and inter-process communication in UNIX. 
+
 Usage: pipeStarter S program1 X program2 X program3 E
 Output is equivalent to piping program1 | program 2 | program 3
